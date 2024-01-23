@@ -1,5 +1,5 @@
 clear,clc
-% Load the image of Starry Night
+% Load the image of Starry Night.
 img = imread("C:\Users\Sina\Desktop\starry_night.jpg"); % Replace with the actual path to your image
 
 % % Convert the image to grayscale
