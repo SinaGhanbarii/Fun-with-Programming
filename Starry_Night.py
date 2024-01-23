@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
 
-# Load the image of Starry Night
+# Load the image of Starry Night!
 image_path = 'testt.jpg'  # Replace with the actual path to your image
 img = plt.imread(image_path)
 
